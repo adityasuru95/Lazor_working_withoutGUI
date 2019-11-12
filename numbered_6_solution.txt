@@ -1,0 +1,21 @@
+Software Carpentry Lazor Project - Group 5
+2019-11-11 19:51:56.162040
+Puzzle: numbered_6
+ 
+Given board: 
+o o o
+o x x
+o o o
+o x o
+o o o
+
+Solution board: 
+B o o
+A x x
+B o A
+A x o
+B o o
+
+8132 guesses were made out of a possible 18480 boards.
+Finding this solution took 5.627115 seconds.
+Thanks for playing!
